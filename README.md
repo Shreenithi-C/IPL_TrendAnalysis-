@@ -10,7 +10,6 @@ The analysis focuses on:
 - Match Outcome
 
 ---
-
 ## Dataset Used
 - `deliveries.csv` — Ball-by-ball IPL data
 - `matches.csv` — Match-level IPL metadata
